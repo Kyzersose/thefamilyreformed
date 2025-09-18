@@ -11,13 +11,13 @@
 <meta property="og:site_name" content="The Family Reformed"/>
 <meta property="og:title" content="The Family Reformed"/>
 <meta property="og:type" content="website"/>
-<meta property="og:image" content="http://images.squarespace-cdn.com/content/v1/616a2b96d2cc753c6b131644/67c397b6-c351-4f61-8c40-a053d37f8224/tfr+logo+long.png?format=1500w"/>
+<meta property="og:image" content="./images/tfr+logo+long.png"/>
 <meta itemprop="name" content="The Family Reformed"/>
-<meta itemprop="thumbnailUrl" content="http://images.squarespace-cdn.com/content/v1/616a2b96d2cc753c6b131644/67c397b6-c351-4f61-8c40-a053d37f8224/tfr+logo+long.png?format=1500w"/>
-<link rel="image_src" href="http://images.squarespace-cdn.com/content/v1/616a2b96d2cc753c6b131644/67c397b6-c351-4f61-8c40-a053d37f8224/tfr+logo+long.png?format=1500w" />
-<meta itemprop="image" content="http://images.squarespace-cdn.com/content/v1/616a2b96d2cc753c6b131644/67c397b6-c351-4f61-8c40-a053d37f8224/tfr+logo+long.png?format=1500w"/>
+<meta itemprop="thumbnailUrl" content="./images/tfr+logo+long.png"/>
+<link rel="image_src" href="./images/tfr+logo+long.png" />
+<meta itemprop="image" content="./images/tfr+logo+long.png"/>
 <meta name="twitter:title" content="The Family Reformed"/>
-<meta name="twitter:image" content="http://images.squarespace-cdn.com/content/v1/616a2b96d2cc753c6b131644/67c397b6-c351-4f61-8c40-a053d37f8224/tfr+logo+long.png?format=1500w"/>
+<meta name="twitter:image" content="./images/tfr+logo+long.png"/>
 <meta name="twitter:card" content="summary"/>
 <meta name="description" content="" />
 <link rel="preconnect" href="https://images.squarespace-cdn.com">
@@ -468,7 +468,7 @@
                       <div class="header-title-logo">
                         <a href="index.html" data-animation-role="header-element">
                         
-<img elementtiming="nbf-header-logo-desktop" src="https://images.squarespace-cdn.com/content/v1/616a2b96d2cc753c6b131644/67c397b6-c351-4f61-8c40-a053d37f8224/tfr+logo+long.png?format=1500w" alt="The Family Reformed" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+<img elementtiming="nbf-header-logo-desktop" src="./images/tfr+logo+long.png" alt="The Family Reformed" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
                         </a>
                       </div>
@@ -677,7 +677,7 @@
                       <div class="header-title-logo">
                         <a href="index.html" data-animation-role="header-element">
                         
-<img elementtiming="nbf-header-logo-desktop" src="https://images.squarespace-cdn.com/content/v1/616a2b96d2cc753c6b131644/67c397b6-c351-4f61-8c40-a053d37f8224/tfr+logo+long.png?format=1500w" alt="The Family Reformed" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+<img elementtiming="nbf-header-logo-desktop" src="./images/tfr+logo+long.png" alt="The Family Reformed" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
 
                         </a>
                       </div>
